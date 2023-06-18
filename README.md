@@ -22,31 +22,31 @@ shown in the example below:
 
 ```json
 [
-	{
-		"lat": 18.5204,
-		"lng": 73.8567,
-		"timeStamp": 1640480400
-	},
-	{
-		"lat": 18.5205,
-		"lng": 73.8568,
-		"timeStamp": 1640480460
-	},
-	{
-		"lat": 18.5206,
-		"lng": 73.8569,
-		"timeStamp": 1640480520
-	},
-	{
-		"lat": 18.5207,
-		"lng": 73.8570,
-		"timeStamp": 1640480580
-	},
-	{
-		"lat": 18.5208,
-		"lng": 73.8571,
-		"timeStamp": 1640480640
-	}
+    {
+        "lat": 18.5204,
+        "lng": 73.8567,
+        "timeStamp": 1640480400
+    },
+    {
+        "lat": 18.5205,
+        "lng": 73.8568,
+        "timeStamp": 1640480460
+    },
+    {
+        "lat": 18.5206,
+        "lng": 73.8569,
+        "timeStamp": 1640480520
+    },
+    {
+        "lat": 18.5207,
+        "lng": 73.857,
+        "timeStamp": 1640480580
+    },
+    {
+        "lat": 18.5208,
+        "lng": 73.8571,
+        "timeStamp": 1640480640
+    }
 ]
 ```
 
@@ -105,15 +105,9 @@ This project includes unit tests using Jest.
 
 Launches the test runner and runs all tests.
 
-### `yarn test:coverage`
-
-Runs the test coverage report.
-
 ## Learn More
 
-You can learn more in the [Vite documentation](https://vitejs
-
-.dev/) and [React documentation](https://reactjs.org/).
+You can learn more in the [Vite documentation](https://vitejs.dev/) and [React documentation](https://reactjs.org/).
 
 To learn TypeScript, check out the [TypeScript documentation](https://www.typescriptlang.org/).
 
