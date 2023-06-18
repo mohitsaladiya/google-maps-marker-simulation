@@ -1,0 +1,14 @@
+{
+	"app": {
+		"simulationControls": {
+			"simulateAllBtnText": "Simulate All",
+			"pauseBtnText": "Pause",
+			"resumeBtnText": "Resume",
+			"stopBtnText": "Stop"
+		}
+	},
+	"markerSimulationMap": {
+		"uploadBtnLabel": "Add Markers",
+		"fileUploadHint": "Accept JSON files only with times-series data"
+	}
+}
